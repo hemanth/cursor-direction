@@ -1,5 +1,5 @@
 'use strict';
-const directions = 'TOP, RIGHT, BOTTON, LEFT'.split(',');
+const directions = 'TOP, RIGHT, BOTTOM, LEFT'.split(',');
 module.exports = (event, domElement) => {
 	const w = domElement.offsetWidth, 
 	h = domElement.offsetHeight, 

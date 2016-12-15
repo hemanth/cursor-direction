@@ -8,6 +8,9 @@
 $ npm install --save cursor-direction
 ```
 
+## Demo
+
+![demo](./demo.gif)
 
 ## Usage
 
@@ -16,7 +19,7 @@ const cursorDirection = require('cursor-direction');
 
 // Example
 element.addEventListener('mouseover', function (event) {
-    cursorDirection(event, this); //=> 'TOP | RIGHT | BOTTON | LEFT'
+    cursorDirection(event, this); //=> 'TOP | RIGHT | BOTTOM | LEFT'
 }, false);
 ```
 
