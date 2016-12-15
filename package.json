@@ -1,6 +1,6 @@
 {
   "name": "cursor-direction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cursor-direction on a DOM element.",
   "license": "MIT",
   "repository": "hemanth/cursor-direction",
